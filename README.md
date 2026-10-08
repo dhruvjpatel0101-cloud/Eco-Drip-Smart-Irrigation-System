@@ -9,7 +9,6 @@ EcoDrip is an IoT-based smart irrigation system that automates plant watering us
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1zIBAScTDB1-SwQiUyo6MwZYXjlqAjayP
 
 ## Run Locally
 
